@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shandybayev
-- 👀 I’m interested in back-end development
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in mobile development
+- 🌱 I’m currently learning flutter
 - 📫 How to reach me shandybaev33@gmail.com
 
 <!---
