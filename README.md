@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shandybayev
-- 👀 I’m interested in the back-end development
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in the web development
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me shandybaev33@gmail.com
 
 <!---
