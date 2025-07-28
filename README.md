@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shandybayev
-- 👀 I’m interested in the web development
-- 🌱 I’m currently learning FastAPI
+- 👀 I’m interested in backend development
+- 🌱 I’m currently working with FastAPI
 - 📫 How to reach me shandybaev33@gmail.com
 
 <!---
